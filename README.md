@@ -228,4 +228,4 @@ print(agent.performance)
 
 </code>
 <h3>OUTPUT:</h3>
-![image](https://github.com/BharathCSEIOT/19AI405ExpNo1/assets/122793480/8c2f1f8c-a46b-43bf-9cf7-c31cac4456dc)
+
